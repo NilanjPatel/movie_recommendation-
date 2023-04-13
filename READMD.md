@@ -1,0 +1,1 @@
+We used Cosine-similarity to get movie recommendation based on the movie type and other details.
